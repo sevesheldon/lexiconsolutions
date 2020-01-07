@@ -67,8 +67,89 @@
 }
 
 .nav ul li#menu-item-26 a {
-color: #fff;
+	color: #fff;
 }
+
+#under-nav-1 {
+	display: inline-block;
+	float: right;
+	text-align: center;
+}
+
+#under-nav-1 #header-tel a {
+	color: #A69B8E;
+	font-weight: bold;
+	font-size: 18px;
+    line-height: 22px;
+	text-align: center;
+}
+
+#under-nav-1 #header-add a {
+	color: #767272;
+	font-size: 16px;
+    line-height: 21px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***** FOOTER *****/
+
+#footer {
+	background-color: #1E7538;
+	height: 80px;
+}
+
+nav.footer-nav {
+    display: inline-block;
+}
+
+#footer .footer-nav ul#menu-footer li {
+    display: inline-block;
+    padding: 24px 0;
+}
+
+#footer .footer-nav ul#menu-footer li a {
+    font-size: 19px;
+    padding: 0px 22px;
+    color: #fff;
+    font-weight: bold;
+}
+
+#footer #footer-socials {
+	float: right;
+	padding: 20px 0;
+	margin-right: 30px;
+}
+
+a img.footer-social-icon {
+    padding: 0 15px;
+}
+
+img#footer-twitter {
+    width: 70px;
+}
+
+img#footer-linkedin {
+    width: 70px;
+}
+
+
+
+
+
 
 
 
