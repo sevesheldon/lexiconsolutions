@@ -13,6 +13,12 @@
 */
 
 
+/* this Calibri font does not look correct*/
+
+/*html, body, h1, h2, h3, h4, h5, h6 {
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}*/
+
 /***** HEADER *****/
 
 .header {
@@ -27,7 +33,6 @@
     float: left;
 }
 
-
 .logo h1:first-child {
   color: rgba(57,86,41,1);
   font-weight: 800;
@@ -38,3 +43,38 @@
 }
 
 /* NAV BAR */
+
+.nav {
+    float: right;
+    margin-top: 10px;
+}
+
+.nav ul li {
+    display: inline-block !important;
+}
+
+.nav ul li a {
+    font-size: 22px;
+    padding: 0 22px;
+    color: #55BB72;
+    font-weight: bold;
+}
+
+.nav ul li#menu-item-26 {
+    background-color: rgba(182,149,111,1);
+    border-radius: 30px;
+    padding: 6px 3px;
+}
+
+.nav ul li#menu-item-26 a {
+color: #fff;
+}
+
+
+
+
+
+
+
+
+
