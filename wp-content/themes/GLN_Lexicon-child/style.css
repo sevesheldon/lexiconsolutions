@@ -23,6 +23,7 @@
 
 .header {
     padding: 48px 0 0 0;
+    margin: 0 0 40px 0;
 }
 
 /* LOGO */
@@ -36,6 +37,7 @@
 .logo h1:first-child {
   color: rgba(57,86,41,1);
   font-weight: 800;
+  margin-left: 24px;
 }
 
 .logo h1:last-child {
@@ -74,6 +76,7 @@
 	display: inline-block;
 	float: right;
 	text-align: center;
+	clear: both !important;
 }
 
 #under-nav-1 #header-tel a {
@@ -149,12 +152,19 @@ img#footer-linkedin {
 
 
 
+/* Home Page */
 
 
+#home-row-1 {
+	height: 509px;
+}
 
-
-
-
+#home-row-1 :last-child { 
+	height: inherit;
+    background-image: url(http://lexicon.lagosconsulting.com/wp-content/uploads/2020/01/homepage_art.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+}
 
 
 
