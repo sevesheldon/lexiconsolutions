@@ -13,11 +13,11 @@
 
 					<div class="row" id="home-row-1">
 
-						<div class="col-sm-6">
+						<div class="col-md-6">
 
 						</div>
 
-						<div class="col-sm-6">
+						<div class="col-md-6">
 
 				<?php the_content(); ?>
 

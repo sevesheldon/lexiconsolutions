@@ -156,7 +156,12 @@ img#footer-linkedin {
 
 
 #home-row-1 {
-	height: 509px;
+	height: 508px;
+}
+
+#home-row-1 :first-child { 
+	height: inherit;
+    background-image: url(http://lexicon.lagosconsulting.com/wp-content/uploads/2020/01/Lexicon5.png);
 }
 
 #home-row-1 :last-child { 
@@ -165,6 +170,7 @@ img#footer-linkedin {
     background-position: right;
     background-repeat: no-repeat;
 }
+
 
 
 
