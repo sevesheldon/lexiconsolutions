@@ -58,12 +58,38 @@
 					</nav>
 					<!-- /nav -->
 
+					
+					<nav role="navigation">
+					  <div id="menuToggle">
+					    <!--
+					    A fake / hidden checkbox is used as click reciever,
+					    so you can use the :checked selector on it.
+					    -->
+					    <input type="checkbox" />
+
+					    <span></span>
+					    <span></span>
+					    <span></span>
+					    
+					    <!--
+					    Too bad the menu has to be inside of the button
+					    but hey, it's pure CSS magic.
+					    -->
+					    <ul id="menu">
+					      <a href="#"><li>Home</li></a>
+					      <a href="#"><li>About</li></a>
+					      <a href="#"><li>Info</li></a>
+					      <a href="#"><li>Contact</li></a>
+					    </ul>
+					  </div>
+					</nav>
+
 					<div id="under-nav-1">
 						<div id="header-tel"><a href="tel:1-503-469-6000">(503)469-6000</a></div>
 						<br>
 						<div id="header-add"><a target="_blank" href="https://goo.gl/maps/aBrA8z7zhDyKqcbB9">605 SW Poplar Ln<br>Portland, OR 97225</a></div>
 					</div>
-					
+
 			</header>
 
 			
