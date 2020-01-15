@@ -58,7 +58,7 @@
 					</nav>
 					<!-- /nav -->
 
-					
+
 					<nav role="navigation">
 					  <div id="menuToggle">
 					    <!--
@@ -76,10 +76,10 @@
 					    but hey, it's pure CSS magic.
 					    -->
 					    <ul id="menu">
-					      <a href="#"><li>Home</li></a>
-					      <a href="#"><li>About</li></a>
-					      <a href="#"><li>Info</li></a>
-					      <a href="#"><li>Contact</li></a>
+					      <a href="/"><li>Home</li></a>
+					      <a href="/about"><li>About</li></a>
+					      <a href="/job-seekers"><li>Job Seekers</li></a>
+					      <a href="/find-talent"><li>Find Talent</li></a>
 					    </ul>
 					  </div>
 					</nav>

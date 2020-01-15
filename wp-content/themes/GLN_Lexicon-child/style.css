@@ -141,7 +141,7 @@
 #menu {
     position: absolute;
     width: 150vw;
-    height: 150vw;
+    height: 150vh;
     margin: -200px 0px 0 -100px;
     padding: 285px 50px 50px 120px;
     background: #ededed;
@@ -300,23 +300,6 @@ img#footer-linkedin {
 	height: 507px;
 }
 
-/*#home-row-1 :first-child { 
-	height: inherit;
-    background-image: url(http://lexicon.lagosconsulting.com/wp-content/uploads/2020/01/Lexicon5.png);
-    background-repeat: no-repeat;
-}
-
-#home-row-1 :last-child { 
-	height: inherit;
-    background-image: url(http://lexicon.lagosconsulting.com/wp-content/uploads/2020/01/homepage_art.jpg);
-    background-position: right;
-    background-repeat: no-repeat;
-}
-
-#home-row-1 :last-child h1 { 
-
-}*/
-
 #home-row-1 #home-row-1-left { 
 	height: inherit;
     background-image: url(http://lexicon.lagosconsulting.com/wp-content/uploads/2020/01/Lexicon5.png);
@@ -359,7 +342,7 @@ img#footer-linkedin {
 }
 
 #home-row-1-right-btns {
-    bottom: 70px;
+    bottom: 60px;
     position: absolute;
 }
 
@@ -482,7 +465,7 @@ img#footer-linkedin {
 	}
 
 	#under-nav-1 {
-	    margin: 20px 40px 0 0;
+	    padding: 20px 40px 0 0;
 	}
 
 	#home-row-1 #home-row-1-right {
