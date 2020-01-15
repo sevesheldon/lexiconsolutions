@@ -31,11 +31,45 @@
 								<a class="btn" href="#" role="button">Find Talent</a>
 							</div>
 
-				<?php the_content(); ?>
+						</div>
+
+					</div>
+
+
+						
+					<div class="row" id="home-row-2-title">
+
+						<div class="col-xs-12">
+							
+							<h1>We are the <span>solution</span></h1>
+
+							<p>At Lexicon Solutions we Think Local.<br>We work for our community while putting our community to work.</p>
+
+						</div>
+					
+					</div>
+
+					<div class="row" id="home-row-2">
+
+						<div class="col-md-5" id="home-row-2-left">
+
+						</div>
+
+						<div class="col-md-7" id="home-row-2-right">
+
+							<div id="home-row-2-right-text">
+								
+								<h1>Experience <span>at work</span></h1>
+
+								<p>Portland’s leading tech recruiting agency that’s always fulfilling their mission -To always do what’s best for the candidates and clients.</p>
+
+							</div>
 
 						</div>
 
 					</div>
+
+
 
 				</div>
 

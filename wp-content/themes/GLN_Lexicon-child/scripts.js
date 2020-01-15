@@ -6,6 +6,9 @@
 		
 		// DOM ready, take it away
 
+		// $( '#burger' ).click(function() {
+		//     console.log( "You clicked a burger" );
+		// });
 		
 	});
 	
