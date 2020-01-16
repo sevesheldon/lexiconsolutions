@@ -413,7 +413,8 @@ img#footer-linkedin {
 }
 
 #home-row-2-right-text {
-    width: 60%;
+    width: 100%
+    /*width: 60%*/;
     padding-left: 100px;
     padding-top: 160px;
 
